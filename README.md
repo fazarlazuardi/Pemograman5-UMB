@@ -8,3 +8,5 @@
 -biodata
   Nama  : Fajar Lazuardi
   Nim   : 21022044
+
+terimakasih
